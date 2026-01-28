@@ -82,7 +82,7 @@ export default function Home() {
                 </a>
               </div>
               <div className="flex gap-3 pt-2">
-                <a href="https://www.facebook.com" target="https://www.facebook.com/profile.php?id=61585639097230" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 transition-colors">
+                <a href="https://www.facebook.com/profile.php?id=61585639097230" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600 transition-colors">
                   <Facebook size={18} fill="currentColor" />
                 </a>
 
@@ -372,7 +372,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-8">
           <div className="flex flex-col items-center gap-6">
             <div className="flex gap-6">
-              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gold transition-colors">
+              <a href="https://www.facebook.com/profile.php?id=61585639097230" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gold transition-colors">
                 <Facebook size={20} fill="currentColor" />
               </a>
             </div>
