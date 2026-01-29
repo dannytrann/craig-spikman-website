@@ -141,10 +141,10 @@ export default function Home() {
                 Discover Real Estate<br />Solutions
               </h2>
               <p className="text-base text-gray-700 leading-relaxed">
-                Craig Spikman is an Associate Broker with Royal<br />
-                LePage Advance Realty, serving Campbell River<br />
-                and Vancouver Island. Specializing in residential,<br />
-                commercial, waterfront, and investment<br />
+                Licensed since 1992, Craig Spikman is an Associate<br />
+                Broker with Royal LePage Advance Realty, serving<br />
+                Campbell River and Vancouver Island. Specializing<br />
+                in residential, commercial, waterfront, and investment<br />
                 properties, Craig is known for his straightforward<br />
                 approach, deep local knowledge, and<br />
                 commitment to getting results for every client.
@@ -210,7 +210,7 @@ export default function Home() {
                 Areas of Service
               </h3>
               <p className="text-base text-gray-700 leading-relaxed mb-4">
-                <strong className="text-foreground font-semibold">Campbell River & Northern Vancouver Island:</strong> From Willow Point to Quadra Island, Campbell River North to South, beach...
+                Serving Campbell River and area from the Oyster River to Sayward, as well as the remote communities of Germansen Landing and Manson Creek in Northern BC.
               </p>
             </div>
             <div className="h-48 relative rounded-sm overflow-hidden">
